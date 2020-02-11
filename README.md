@@ -1,2 +1,2 @@
 # potential-happiness
-Projects
+ML Projects
